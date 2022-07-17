@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GTLugo
 - 👀 I’m interested in game design, software engineering, and anime!
 - 🌱 I’m currently studying for my bachelor's in Computer Science.
-- 🚀 I'm working on my own application framework in C++!
+- 🚀 I'm working on my own application frameworks in C++ and Rust!
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
