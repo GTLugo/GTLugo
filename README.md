@@ -8,7 +8,7 @@ Language experience:
 - Advanced: C++
 - Upper Intermediate: Rust 
 - Lower Intermediate: Java, Python
-- Novice: C#, Python, TypeScript, HTML5, CSS
+- Novice: C#, TypeScript, HTML5, CSS
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: g.alexander.maldonado@gmail.com--->
 
