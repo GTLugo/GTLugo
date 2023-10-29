@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @GTLugo
+- 👋 Hi, I’m @GTLugo, a computer scientist.
 - 👀 I’m interested in game design, software engineering, and anime!
 - 🌱 I’m currently studying for my bachelor's in Computer Science.
+- 🏫 I've been a computer science tutor at my university for 3 years and done a software development internship at Amazon.
 - 🚀 I'm working on my own application frameworks in C++ and Rust!
 <!---- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...--->
+- 📫 How to reach me: g.alexander.maldonado@gmail.com--->
 
 <!---
 GTLugo/GTLugo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
