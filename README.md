@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GTLugo, a computer scientist.
+- 👋 Hi, I’m @GTLugo, a computer scientist and hobbyist artist.
 - 👀 I’m interested in game design, software engineering, and anime!
 - 🌱 I’m currently studying for my bachelor's in Computer Science.
 - 🏫 I've been a computer science tutor at my university for 3 years and done a software development internship at Amazon.
