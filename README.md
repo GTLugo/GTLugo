@@ -1,5 +1,5 @@
 ## Who am I?
-- 👋 Hi, I’m Gabriel Lugo, a computer scientist and hobbyist artist.
+- 👋 Hi, I’m Gabriel Lugo-Maldonado, a computer scientist and hobbyist artist.
 - 👀 I’m interested in game design, software engineering, and anime!
 - 🌱 I’m currently studying for my bachelor's in Computer Science, set to graduate in Fall 2025.
 - 🏫 I've been a computer science tutor at my university for around 3 years.
