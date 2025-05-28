@@ -9,7 +9,7 @@
 - 🚀 I'm working on a lot of different projects, mostly in C++ and Rust!
 
 ## Language Experience
-- **Advanced:** C++, Rust 
+- **Advanced:** C, C++, Rust 
 - **Intermediate:** Java, Python
 - **Novice:** C#, TypeScript, HTML5, CSS
 <!---- 💞️ I’m looking to collaborate on ...
