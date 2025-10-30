@@ -2,11 +2,11 @@
 - 👋 Hi, I’m Gabriel Lugo-Maldonado, a computer scientist and hobbyist artist.
 - 👀 I’m interested in game design, software engineering, and anime!
 - 🌱 I’m currently studying for my bachelor's in Computer Science, set to graduate in Dec 2025.
+- 🚀 I'm working on a lot of different projects, mostly in C++ and Rust!
 
 ## Highlights
-- 📖 I've interned at Amazon as a Software Dev Engineer.
-- 🏫 I've been a computer science tutor at my university for around 3 years.
-- 🚀 I'm working on a lot of different projects, mostly in C++ and Rust!
+- 📖 Software Dev Engineer Intern at Amazon.
+- 🏫 Computer Science / Computational Modeling & Simulation Engineering tutor at ODU.
 
 ## Language Experience
 - **Advanced:** C, C++, Rust 
