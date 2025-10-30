@@ -4,7 +4,7 @@
 - 🚀 I'm working on a lot of different projects, mostly in C++ and Rust!
 
 ## Highlights
-- 📖 Software Dev Engineer Intern at Amazon.
+- 📖 Software Dev Engineer Intern at Amazon in 2023.
 - 🏫 Computer Science / Computational Modeling & Simulation Engineering tutor at ODU.
 
 ## Language Experience
