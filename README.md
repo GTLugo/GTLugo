@@ -6,6 +6,7 @@
 ## Highlights
 - 📖 Software Dev Engineer Intern at Amazon in 2023.
 - 🏫 Computer Science / Computational Modeling & Simulation Engineering tutor at ODU.
+- 🎓 Bachelor of Science in Computer Science from ODU.
 
 ## Language Experience
 - **Advanced:** C, C++, Rust 
