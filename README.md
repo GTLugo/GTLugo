@@ -12,6 +12,9 @@
 - **Advanced:** C, C++, Rust 
 - **Intermediate:** Java, Python
 - **Novice:** C#, TypeScript, HTML5, CSS
+
+## Shameless Plugs
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R8PGIU6)
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: g.alexander.maldonado@gmail.com--->
 
